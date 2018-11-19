@@ -16,6 +16,7 @@ gem 'jquery-rails'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.5'
+gem 'paperclip', '~> 6.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
